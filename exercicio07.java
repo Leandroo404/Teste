@@ -13,6 +13,8 @@ public class exercicio07{
             JOptionPane.showMessageDialog(null,numero);
          }
          JOptionPane.showMessageDialog(null,"Fim do intervalo");
+         JOptionPane.showMessageDialog(null,"estou testando o commit");
+         
          
       }
       
